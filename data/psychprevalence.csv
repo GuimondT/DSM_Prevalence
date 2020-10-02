@@ -1,167 +1,167 @@
-DiagnosisID,Class,Perspective,DiagnosisName,DSM_Code,ICD11,Prevalence,Prevalence2,PrevalenceNotes
-1,1,D,Intellectual Disability,"317,318.0,318.1,318.2",F70-F73,0.01,0.0006,Defined by 2 standard deviations below mean; severity by adaptation
-2,1,D,Language Disorder,315.39,F80.9,NA,NA,
-3,1,D,Speech Sound Disorder,315.39,F80.0,NA,NA,
-4,1,D,Childhood-Onset Fluency Disorder,315.35,F80.81,NA,NA,
-5,1,D,Social (Pragmatic) Communication Disorder,315.39,F80.89,NA,NA,
-6,1,C,Autism Spectrum Disorder,299,F84.0,0.01,NA,"""Approaches 1%"""
-7,1,D,Attention-Deficit/Hyperactivity Disorder,"314.x (00,01)","F90.x (0,1,2)",0.025,0.05,Prevalance 2 is in children.
-8,1,D,Specific Learning Disorder,"315.x (00,2,1)","F81.x (0,81,2)",NA,0.04,Childhood prevalence in prevalence2
-9,1,D,Developmental Coordination Disorder,315.4,F82,NA,0.055,Childhood prevalence in prevalence2
-10,1,D,Stereotypic Movement Disorder,307.3,F98.4,NA,0.035,Childhood prevalences in prevalence2; higher with severe intellectual disability
-11,1,B,Tic Disorders,"307.x (21,22,23)","F95.x (0,1,2)",0.003,0.008,Childhood prevalence in prevalence2
-12,2,C,Delusional Disorder,297.1,F22,0.002,NA,lifetime prevalence was cited
-13,2,C,Brief Psychotic Disorder,298.8,F23,NA,0.09,Cited as 9% of first episode psychosis presentations
-14,2,C,Schizophreniform Disorder,295.4,F20.81,NA,NA,"1/5 the rate of schizophrenia,  or higher or identical to schizophrenia"
-15,2,C,Schizophrenia,295.9,F20.9,0.005,NA,0.3-0.7%
-16,2,C,Schizoaffective Disorder,295.7,"F25.x (0,1)",0.003,NA,Claims 1/3 the rate of schizophrenia
-17,2,B,Substance-Induced Psychotic Disorder,291.9 or 292.9,various F10-F19,NA,NA,7% - 25% of first episode presentations
-18,2,C,Psychotic Disorder Due to GMC,"293.8x (1,2)","F06.x (0,2)",0.0021,0.0054,Estimate in range between 0.21% and 0.54%
-19,3,C,Bipolar I Disorder,296.x,F31.x,0.006,NA,12-month prevalence
-20,3,C,Bipolar II Disorder,296.89,F31.81,0.003,0.008,"12-month prevalence, prevalence2 is USA, other is international"
-21,3,C,Cyclothymic Disorder,301.13,F34.0,0.007,NA,Range reported as 0.4 to 1%
-22,3,B,Substance-Induced Bipolar and Related Disorder,291.89 or 292.84,F1x.x,NA,NA,No epidemiological studies
-23,3,,Bipolar and Related Disorder Due to GMC,293.83,"F06.x (33,34)",NA,NA,No epidemiological studies; HIV mania is critical to consider
-24,4,,Disruptive Mood Dysregulation Disorder,296.99,F34.8,NA,NA,No epidemiological studies
-25,4,,Major Depressive Disorder,296.x (various),F32.x (various),0.07,NA,"US 12-month prevalence, differs by age & gender"
-26,4,,Persistent Depressive Disorder,300.4,F34.1,0.02,NA,12 month prevalence
-27,4,,Premenstrual Dysphoric Disorder,625.4,N94.3,0,0.013,12 month prevalence between 1.8 to 5.8% of menstruating women
-28,4,B,Substance-Induced Depressive Disorder,291.89 OR 292.84,F1x.x,0.0026,NA,lifetime prevalence was cited
-29,4,,Depressive Disorder Due to GMC,293.83,"F06.x (31,32,34)",NA,NA,
-30,5,,Separation Anxiety Disorder,309.21,F93.0,0.014,NA,12 month prevalence
-31,5,,Selective Mutism,312.23,F94.0,0.003,NA,Unknown source
-32,5,,Specific Phobia,300.29,F40.x (various),0.08,NA,12 month range 7-9%
-33,5,,Social Anxiety Disorder,300.23,F40.10,0.07,0.023,Prevalence2 is European
-34,5,,Panic Disorder,300.01,F41.0,0.025,NA,12 month prevalence between 2 to 3%
-35,5,,Panic Attack Specifier,NA,NA,0.112,NA,12-month prevalence for panic attacks in USA
-36,5,,Agoraphobia,300.22,F40.00,0.017,NA,
-37,5,,Generalized Anxiety Disorder,300.02,F41.1,0.029,0.09,"12-month prevalence in USA, prevalence2 is lifetime"
-38,5,B,Substance-Induced Anxiety Disorder,291.89 or 292.89,F1x.x,0.00002,NA,12-month estimate of prevalence
-39,5,,Anxiety Disorder Due to GMC,293.84,F06.4,NA,NA,
-40,6,,Obsessive-Compulsion Disorder,300.3,F42,0.012,NA,12 month prevalence
-41,6,,Body Dysmorphic Disorder,300.7,F45.22,0.024,0.022,Prevalence2 is for males
-42,6,,Hoarding Disorder,300.3,F42,0.04,NA,Point prevalence is estimated between 2 and 6%
-43,6,,Trichotillomania,312.39,F63.3,0.015,NA,12 month prevalence between 1 and 2%
-44,6,,Excoriation,698.4,L98.1,0.014,NA,lifetime prevalence was cited
-45,6,B,Substance-Induced Obsessive-Compulsive and Related Disorder,292.89,F1x.x,NA,NA,very rare
-46,6,,Obsessive-Compulsion and Related Disorder Due to GMC,294.8,F06.8,NA,NA,
-47,7,,Reactive Attachment Disorder,313.89,F94.1,NA,NA,extremely rare
-48,7,,Disinhibited Social Engagement Disorder,313.89,F94.2,NA,NA,rare
-49,7,,Posttraumatic Stress Disorder,309.81,F43.10,0.035,0.087,12 month versus lifetime (prevalence2)
-50,7,,Acute Stress Disorder,308.3,F43.0,NA,NA,"unknown prevalence, references after traumatic experiences"
-51,7,,Adjustment Disorder,"309.x (0,24,28,3,4,9)","F43.x (20,21,22,23,24,25)",NA,0.125,12.5% in outpatient mental health clinics
-52,8,,Dissociative Identity Disorder,300.14,F44.81,0.015,0.016,"12 month prevalence, prevalence2 in males"
-53,8,,Dissociative Amnesia,300.12,F44.0,0.018,0.01,"12 month prevalence, prevalence2 in males"
-54,8,,Depersonalization/Derealization Disorder,300.6,F48.1,0.02,NA,lifetime prevalence between 0.8 to 2.5%
-55,9,,Somatic Symptom Disorder,300.82,F45.1,0.01,NA,
-56,9,,Illness Anxiety Disorder,300.7,F45.21,0.013,NA,1-2 year prevalence was 1.3 to 10%
-57,9,,Conversion Disorder,300.11,"F44.x (4,5,6,7)",0.000035,NA,Incidence per year
-58,9,,Psychological Factors Affecting Other Medical Conditions,316,F54,NA,NA,unknown
-59,9,,Factitious Disorder,300.19,F68.10,NA,NA,1% of hospital presentations
-60,10,,Pica,307.52,F50.8,NA,NA,
-61,10,,Rumination,307.53,F98.21,NA,NA,
-62,10,B,Avoidant/Restrictive Food Intake Disorder,307.59,F50.8,NA,NA,
-63,10,B,Anorexia Nervosa,307.1,"F50.x (01,02)",0.0004,0.04,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
-64,10,B,Bulimia Nervosa,307.51,F50.2,0.00125,0.0125,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
-65,10,B,Binge-Eating Disorder,307.51,F50.8,0.008,NA,Prevalence is in males
-66,11,B,Enuresis,307.6,F98.0,0.01,NA,"Amongst those 15 years and older, doesn't address adults"
-67,11,B,Encopresis,307.7,F98.1,NA,0.01,Prevalence 2 is amongst 5 year olds
-68,12,,Insomnia Disorder,780.52,G47.00,0.08,NA,Slightly more prevalent in females 1.44:1
-69,12,,Hypersomnolence Disorder,780.54,G47.10,0.01,NA,
-70,12,,Narcolepsy,"347.x (00,01,10)","G47.x (411,419,429)",0.0003,NA,Possible slight male preponderance
-71,12,,Obstructive Sleep Apnea Hypopnea,327.23,G47.33,0.085,NA,"Affects 2-15% of middle age adults, related to obesity"
-72,12,,Central Sleep Apnea,327.21 or 786.04 or 780.57,G47.31 or R06.3 or G47.37,NA,NA,unknown but thought to be rare
-73,12,,Sleep-Related Hypoventilation,"327.x (34,35,36)","G47.3x (4,5,6)",NA,NA,unknown but thought to be rare
-74,12,,Circadian Rhythm Sleep-Wake Disorders: Delayed Sleep Phase,307.45,G47.21,0.0017,NA,
-75,12,,Circadian Rhythm Sleep-Wake Disorders: Advanced Sleep Phase,307.45,G47.22,0.01,NA,
-76,12,,Circadian Rhythm Sleep-Wake Disorders: Irregular Sleep-Wake,307.45,G47.23,NA,NA,
-77,12,,Circadian Rhythm Sleep-Wake Disorders: Non-24-hour Sleep-Wake,307.45,G47.24,NA,NA,
-78,12,,Circadian Rhythm Sleep-Wake Disorders: Shift Work,307.45,G47.26,NA,0.0135,Estimate of total workforce (16-20% night workers of workers; 5-10% of night workers affected) 
-79,12,,Circadian Rhythm Sleep-Wake Disorders: Unspecified,307.45,G47.20,,NA,
-80,12,,Non-Rapid Eye Movement Sleep Arousal Disorders: Sleepwalking,307.46,F51.3,0.03,NA,
-81,12,,Non-Rapid Eye Movement Sleep Arousal Disorders: Sleep Terrors,307.46,F51.4,0.022,NA,
-82,12,,Nightmare Disorder,307.47,F51.5,0.015,NA,
-83,12,,Rapid Eye Movement Sleep Behaviour Disorder,327.42,G47.52,0.0044,NA,
-84,12,,Restless Legs Syndromes,333.94,G25.81,0.016,NA,
-85,12,B,Substance-Induced Sleep Disorder,291.82 or 292.85,F1x.y,NA,NA,
-86,13,B,Delayed Ejaculation,302.74,F52.32,NA,NA,
-87,13,,Erectile Disorder,302.72,F52.21,NA,NA,13-21% of men 40-80 complain of occasional problems
-88,13,,Female Orgasmic Disorder,302.73,F52.31,0,NA,10% of women never have an orgasm during their life
-89,13,,Female Sexual Interest/Arousal Disorder,302.72,F52.22,0,NA,Unknown
-90,13,,Genito-Pelvic Pain/Penetration Disorder,302.76,F52.6,NA,NA,
-91,13,,Male Hypoactive Sexual Desire Disorder,302.71,F52.0,0.018,NA,Prevalence for men 16-44 yo
-92,13,,Premature (Early) Ejaculation,302.75,F52.4,0.02,NA,This prevalence appears to be estimated
-93,13,,Substance-Induced Sexual Dysfunction,291.89 or 292.89,F1x.y,NA,NA,"Unknown general, some medications have common sexual dysfunctions (e.g. methadone, antidepressants)"
-94,14,,Gender Dysphoria,302.85,F64.1,NA,NA,"""For natal adult males 0.05% to 0.014%, natal females 0.002% to 0.003%"""
-95,15,,Oppositional Defiant Disorder,313.81,F91.3,NA,0.033,Presumably this is refering to childhood rates
-96,15,,Intermittent Explosive Disorder,312.34,F63.81,0.027,NA,
-97,15,,Conduct Disorder,"312.x (81,82,89)","F91.x (1,2,9)",NA,0.04,"Rarely diagnosed in adulthood, onset in childhood, mainly remits in adulthood."
-98,15,,Pyromania,312.33,F63.1,NA,NA,
-99,15,,Kleptomania,312.32,F63.2,0.0045,NA,General population 0.3-0.6%
-100,16,,Alcohol Use Disorder,"305, 303.90","F10.x (10,20)",0.085,NA,
-101,16,,Cannabis Use Disorder,"305.20, 304.30","F12.x (10,20)",0.015,NA,
-102,16,,Phencyclidine Use Disorder,"305.90, 304.60","F16.x (10,20)",NA,NA,"Includes ketamine, unknown prevalence"
-103,16,,Other Hallucinogen Use Disorder,"305.30, 304.50","F16.x (10,20)",0.002,0.001,"Includes MDMA, prevalence is the adult male one year prevalence, prevalence2 is the general adult rate"
-104,16,,Hallucinogen Persisting Perception Disorder,292.89,F16.983,NA,NA,Initial estimates suggest 4.2% of people who use hallucinogens
-105,16,,Inhalant Use Disorder,"305.90, 304.60","F18.x (10,20)",0.0002,0.004,"prevalence2 is 12-month all ages, prevalence is 18 yo +"
-106,16,,Opioid Use Disorder,"305.50, 304.00","F11.x (10,20)",0.0049,0.0037,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
-107,16,,"Sedative, Hypnotic, or Anxiolytic Use Disorder","305.40, 304.10","F13.x (10,20)",0.003,0.002,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
-108,16,,Stimulant Use Disorder: amphetamine type,"305.70, 304.40","F15.x (10,20)",0.001,0.002,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
-109,16,,Stimulant Use Disorder: cocaine,"305.60, 304.20","F14.x, (10,20)",0.004,0.003,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
-110,16,,Tobacco Use Disorder,305.1,"Z72.0, F17.200",0.13,NA,"Prevalence comes from DSM-IV dependence, will be higher"
-111,16,,Other Substance Use Disorder,"305.90, 304.90","F19.x (10,20)",NA,NA,"Unknown (for example steroids, poppers, etc)"
-112,16,,Gambling Disorder,312.31,F63.0,0.0025,NA,
-113,17,,Delerium,Various,Various,0.015,NA,Community prevalence cited
-114,17,,Major Neurocognitive Disorder,Various,Various,NA,NA,Can include those caused by HIV; prevalence changes by age and subtype
-115,17,,Mild Neurocognitive Disorder,Various,Various,NA,NA,Can include those caused by HIV; prevalence changes by age and subtype
-116,17,,MND Due to Alzheimer's Disease,,,NA,NA,
-117,17,,Major or Mild Frontotemporal Neurocognitive Disorder,"294.x (10,11), 331.x (19,9,83)","G31.x(09,9,84),F02.x(80,81)",0.000055,NA,
-118,17,,MND With Lewy Bodies,"294.x (10,11), 331.x (9,82,83)","G31.x(9,83),F02.x(80,81)",NA,0.025,"Prevalence2 is amongst ""elderly"""
-119,17,,Major or Mild Vascular Neurocognitive Disorder,"290.40, 331.9, 331.83","F01.x (50,51), G31.x(84,9)",NA,NA,"Unknown in general population, .2% 65-70 yo, 16% 80+"
-120,17,,MND Due to Traumatic Brain Injury,various,various,NA,0.02,Prevalence2 is rate of TBI-associated disability
-121,17,,Substance-Induced Major or Mild Neurocognitive Disorder,Various,various,NA,NA,Unknown
-122,17,,MND Due to HIV infection,"294.11, 294.10, 331.83","F02.81,F02.80,G31.84",NA,NA,"Of HIV+, 25% with Mild ND, 5% with Major ND"
-123,17,,MND Due to Prion Disease,"294.11, 294.10, 331.83","F02.81,F02.80,G31.85",NA,0.0000015,Prevalence2 is of CJD annually
-124,17,,MND Due to Parkinson's Disease,"294.11, 294.10, 331.84","F02.81,F02.80,G31.86",NA,NA,"Prevalence is 0.5% 65-69, 3% 85+"
-125,17,,MND Due to Huntington's Disease,"294.11, 294.10, 331.85","F02.81,F02.80,G31.87",0.000057,0.000027,"Prevalence is from North America, Europe and Australia, lower in Asia (prevalence2)"
-126,18,,Paranoid Personality Disorder,301,F60.0,0.023,0.044,"National Comorbidity Survey, Prevalence2 NSARC"
-127,18,,Schizoid Personality Disorder,301.2,F60.1,0.049,0.031,"National Comorbidity Survey, Prevalence2 NSARC"
-128,18,,Schizotypal Personality Disorder,301.22,F21,0.046,0.039,Unknown US source; Prevalence2 NSARC; higher in community than clinical samples
-129,18,,Antisocial Personality Disorder,301.7,F60.2,0.0185,NA,Taken from the range 0.2-3.3% cited
-130,18,,Borderline Personality Disorder,301.83,F60.3,0.0375,NA,Taken from the range 1.6-5.9% cited
-131,18,,Histrionic Personality Disorder,301.5,F60.4,0.0184,NA,NSARC
-132,18,,Narcissistic Personality Disorder,301.81,F60.81,0.031,NA,Taken from the range 0-6.2% cited
-133,18,,Avoidant Personality Disorder,301.82,F60.6,0.024,NA,NESARC
-134,18,,Dependent Personality Disorder,301.6,F60.7,0.006,0.0049,"National Comorbidity Survey, Prevalence2 NSARC"
-135,18,,Obsessive-Compulsive Personality Disorder,301.4,F60.5,0.05,NA,Taken from the range 2.1-7.9% cited
-136,18,,Personality Change Due to GMC,310.1,F07.0,NA,NA,Not included
-137,19,,Voyeuristic Disorder,302.82,F65.3,NA,0.12,Estimated from non-clinical samples
-138,19,,Exhibitionistic Disorder,302.4,F65.2,NA,0.03,Estimated from non-clinical samples
-139,19,,Frotteuristic Disorder,302.89,F65.81,NA,NA,"Unknown, 10-14% in clinical samples"
-140,19,,Sexual Masochism Disorder,302.83,F65.51,NA,0.022,"Prevalence2 is Australian males involved in B&D, S&M in past 12 months"
-141,19,,Sexual Sadism Disorder,302.84,F65.52,NA,NA,Unknown population prevalence
-142,19,,Pedophilic Disorder,302.2,F65.4,NA,0.04,Prevalence2 is cited as the 'highest possible prevalence' unclear how/why
-143,19,,Fetishistic Disorder,302.81,F65.0,NA,NA,
-144,19,,Transvestic Disorder,302.3,F65.1,NA,NA,Fewer than 3% of males report having ever been seuxally aroused by cross dressing
-145,21,,Medication-Induced Dystonia,333.72,G24.02,NA,NA,
-146,21,,Medication-Induced Acute Akasthisia,333.99,G25.71,NA,NA,
-147,21,,Tardive Dyskinesia,333.85,G24.01,NA,NA,
-148,21,,Tardive Dystonia,333.72,G24.09,NA,NA,
-149,21,,Tardive Akasthisia,333.99,G25.71,NA,NA,
-150,21,,Medication-Induced Postural Tremor,333.1,G25.1,NA,NA,
-151,21,,Other Medication-Induced Movement Disorder,333.99,G25.79,NA,NA,
-152,21,,Antidepressant Discontinuation Syndrome,995.29,T42.205,NA,NA,
-153,22,,Relational Distress With Spouse or Intimate Partner,V61.10,Z63.0,NA,NA,
-154,22,,Disruption of Family by Separation or Divorce,V61.03,Z63.5,NA,NA,
-155,22,,High Expressed Emotion Level Within Family,V61.8,Z63.8,NA,NA,
-156,22,,Uncomplicated Bereavement,V62.82,Z63.4,NA,NA,
-157,22,,Child Maltreatment and Neglect Problems,various,various,NA,NA,
-158,22,,Adult Maltreatment and Neglect Problems,various,various,NA,NA,
-159,22,,Educational Problems,various,various,NA,NA,
-160,22,,Occupational Problems,various,various,NA,NA,
-161,22,,Housing Problems,various,various,NA,NA,
-162,22,,Economic Problems,various,various,NA,NA,
-163,22,,Other Problems Related to the Social Environment,various,various,NA,NA,
-164,22,,Problems Related to Crime or Interaction With the Legal System,various,various,NA,NA,
-165,22,,Other Health Service Encounters for Counselling and Medical Advice,various,various,NA,NA,
-166,22,,Nonadherence to Medical Treatment,various,various,NA,NA,
+DiagnosisID,Class,Perspective,AltPerspective,DiagnosisName,DSM_Code,ICD11,Prevalence,Prevalence2,PrevalenceNotes
+1,1,Dimensional,,Intellectual Disability,"317,318.0,318.1,318.2",F70-F73,0.01,0.0006,Defined by 2 standard deviations below mean; severity by adaptation
+2,1,Dimensional,,Language Disorder,315.39,F80.9,NA,NA,
+3,1,Dimensional,,Speech Sound Disorder,315.39,F80.0,NA,NA,
+4,1,Dimensional,,Childhood-Onset Fluency Disorder,315.35,F80.81,NA,NA,
+5,1,Dimensional,,Social (Pragmatic) Communication Disorder,315.39,F80.89,NA,NA,
+6,1,Disease,,Autism Spectrum Disorder,299,F84.0,0.01,NA,"""Approaches 1%"""
+7,1,Dimensional,,Attention-Deficit/Hyperactivity Disorder,"314.x (00,01)","F90.x (0,1,2)",0.025,0.05,Prevalance 2 is in children.
+8,1,Dimensional,,Specific Learning Disorder,"315.x (00,2,1)","F81.x (0,81,2)",NA,0.04,Childhood prevalence in prevalence2
+9,1,Dimensional,,Developmental Coordination Disorder,315.4,F82,NA,0.055,Childhood prevalence in prevalence2
+10,1,Dimensional,,Stereotypic Movement Disorder,307.3,F98.4,NA,0.035,Childhood prevalences in prevalence2; higher with severe intellectual disability
+11,1,Behaviour,,Tic Disorders,"307.x (21,22,23)","F95.x (0,1,2)",0.003,0.008,Childhood prevalence in prevalence2
+12,2,Disease,,Delusional Disorder,297.1,F22,0.002,NA,lifetime prevalence was cited
+13,2,Disease,,Brief Psychotic Disorder,298.8,F23,NA,0.09,Cited as 9% of first episode psychosis presentations
+14,2,Disease,,Schizophreniform Disorder,295.4,F20.81,NA,NA,"1/5 the rate of schizophrenia,  or higher or identical to schizophrenia"
+15,2,Disease,,Schizophrenia,295.9,F20.9,0.005,NA,0.3-0.7%
+16,2,Disease,,Schizoaffective Disorder,295.7,"F25.x (0,1)",0.003,NA,Claims 1/3 the rate of schizophrenia
+17,2,Behaviour,,Substance-Induced Psychotic Disorder,291.9 or 292.9,various F10-F19,NA,NA,7% - 25% of first episode presentations
+18,2,Disease,,Psychotic Disorder Due to GMC,"293.8x (1,2)","F06.x (0,2)",0.0021,0.0054,Estimate in range between 0.21% and 0.54%
+19,3,Disease,,Bipolar I Disorder,296.x,F31.x,0.006,NA,12-month prevalence
+20,3,Disease,,Bipolar II Disorder,296.89,F31.81,0.003,0.008,"12-month prevalence, prevalence2 is USA, other is international"
+21,3,Disease,,Cyclothymic Disorder,301.13,F34.0,0.007,NA,Range reported as 0.4 to 1%
+22,3,Behaviour,,Substance-Induced Bipolar and Related Disorder,291.89 or 292.84,F1x.x,NA,NA,No epidemiological studies
+23,3,Disease,,Bipolar and Related Disorder Due to GMC,293.83,"F06.x (33,34)",NA,NA,No epidemiological studies; HIV mania is critical to consider
+24,4,Dimensional,Life Story,Disruptive Mood Dysregulation Disorder,296.99,F34.8,NA,NA,No epidemiological studies
+25,4,Mixed,,Major Depressive Disorder,296.x (various),F32.x (various),0.07,NA,"US 12-month prevalence, differs by age & gender"
+26,4,Disease,Life Story,Persistent Depressive Disorder,300.4,F34.1,0.02,NA,12 month prevalence
+27,4,Disease,Life Story,Premenstrual Dysphoric Disorder,625.4,N94.3,0,0.013,12 month prevalence between 1.8 to 5.8% of menstruating women
+28,4,Behaviour,,Substance-Induced Depressive Disorder,291.89 OR 292.84,F1x.x,0.0026,NA,lifetime prevalence was cited
+29,4,Disease,,Depressive Disorder Due to GMC,293.83,"F06.x (31,32,34)",NA,NA,
+30,5,Life Story,,Separation Anxiety Disorder,309.21,F93.0,0.014,NA,12 month prevalence
+31,5,Life Story,,Selective Mutism,312.23,F94.0,0.003,NA,Unknown source
+32,5,Life Story,,Specific Phobia,300.29,F40.x (various),0.08,NA,12 month range 7-9%
+33,5,Life Story,,Social Anxiety Disorder,300.23,F40.10,0.07,0.023,Prevalence2 is European
+34,5,Life Story,,Panic Disorder,300.01,F41.0,0.025,NA,12 month prevalence between 2 to 3%
+35,5,Life Story,,Panic Attack Specifier,NA,NA,0.112,NA,12-month prevalence for panic attacks in USA
+36,5,Life Story,,Agoraphobia,300.22,F40.00,0.017,NA,
+37,5,Life Story,,Generalized Anxiety Disorder,300.02,F41.1,0.029,0.09,"12-month prevalence in USA, prevalence2 is lifetime"
+38,5,Behaviour,,Substance-Induced Anxiety Disorder,291.89 or 292.89,F1x.x,0.00002,NA,12-month estimate of prevalence
+39,5,Disease,,Anxiety Disorder Due to GMC,293.84,F06.4,NA,NA,
+40,6,Disease,,Obsessive-Compulsion Disorder,300.3,F42,0.012,NA,12 month prevalence
+41,6,Life Story,,Body Dysmorphic Disorder,300.7,F45.22,0.024,0.022,Prevalence2 is for males
+42,6,Behaviour,,Hoarding Disorder,300.3,F42,0.04,NA,Point prevalence is estimated between 2 and 6%
+43,6,Behaviour,,Trichotillomania,312.39,F63.3,0.015,NA,12 month prevalence between 1 and 2%
+44,6,Behaviour,,Excoriation,698.4,L98.1,0.014,NA,lifetime prevalence was cited
+45,6,Behaviour,,Substance-Induced Obsessive-Compulsive and Related Disorder,292.89,F1x.x,NA,NA,very rare
+46,6,Disease,,Obsessive-Compulsion and Related Disorder Due to GMC,294.8,F06.8,NA,NA,
+47,7,Life Story,,Reactive Attachment Disorder,313.89,F94.1,NA,NA,extremely rare
+48,7,Life Story,,Disinhibited Social Engagement Disorder,313.89,F94.2,NA,NA,rare
+49,7,Life Story,,Posttraumatic Stress Disorder,309.81,F43.10,0.035,0.087,12 month versus lifetime (prevalence2)
+50,7,Life Story,,Acute Stress Disorder,308.3,F43.0,NA,NA,"unknown prevalence, references after traumatic experiences"
+51,7,Life Story,,Adjustment Disorder,"309.x (0,24,28,3,4,9)","F43.x (20,21,22,23,24,25)",NA,0.125,12.5% in outpatient mental health clinics
+52,8,Disease,Life Story,Dissociative Identity Disorder,300.14,F44.81,0.015,0.016,"12 month prevalence, prevalence2 in males"
+53,8,Disease,Life Story,Dissociative Amnesia,300.12,F44.0,0.018,0.01,"12 month prevalence, prevalence2 in males"
+54,8,Disease,Life Story,Depersonalization/Derealization Disorder,300.6,F48.1,0.02,NA,lifetime prevalence between 0.8 to 2.5%
+55,9,Life Story,,Somatic Symptom Disorder,300.82,F45.1,0.01,NA,
+56,9,Life Story,,Illness Anxiety Disorder,300.7,F45.21,0.013,NA,1-2 year prevalence was 1.3 to 10%
+57,9,Life Story,,Conversion Disorder,300.11,"F44.x (4,5,6,7)",0.000035,NA,Incidence per year
+58,9,Life Story,,Psychological Factors Affecting Other Medical Conditions,316,F54,NA,NA,unknown
+59,9,Behaviour,Life Story,Factitious Disorder,300.19,F68.10,NA,NA,1% of hospital presentations
+60,10,Behaviour,,Pica,307.52,F50.8,NA,NA,
+61,10,Behaviour,,Rumination,307.53,F98.21,NA,NA,
+62,10,Behaviour,,Avoidant/Restrictive Food Intake Disorder,307.59,F50.8,NA,NA,
+63,10,Behaviour,,Anorexia Nervosa,307.1,"F50.x (01,02)",0.0004,0.04,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
+64,10,Behaviour,,Bulimia Nervosa,307.51,F50.2,0.00125,0.0125,"Prevalence in females is given in prevalence2, prevalence in males is estimated to be 10:1"
+65,10,Behaviour,,Binge-Eating Disorder,307.51,F50.8,0.008,NA,Prevalence is in males
+66,11,Behaviour,,Enuresis,307.6,F98.0,0.01,NA,"Amongst those 15 years and older, doesn't address adults"
+67,11,Behaviour,,Encopresis,307.7,F98.1,NA,0.01,Prevalence 2 is amongst 5 year olds
+68,12,Disease,,Insomnia Disorder,780.52,G47.00,0.08,NA,Slightly more prevalent in females 1.44:1
+69,12,Disease,,Hypersomnolence Disorder,780.54,G47.10,0.01,NA,
+70,12,Disease,,Narcolepsy,"347.x (00,01,10)","G47.x (411,419,429)",0.0003,NA,Possible slight male preponderance
+71,12,Disease,,Obstructive Sleep Apnea Hypopnea,327.23,G47.33,0.085,NA,"Affects 2-15% of middle age adults, related to obesity"
+72,12,Disease,,Central Sleep Apnea,327.21 or 786.04 or 780.57,G47.31 or R06.3 or G47.37,NA,NA,unknown but thought to be rare
+73,12,Disease,,Sleep-Related Hypoventilation,"327.x (34,35,36)","G47.3x (4,5,6)",NA,NA,unknown but thought to be rare
+74,12,Disease,,Circadian Rhythm Sleep-Wake Disorders: Delayed Sleep Phase,307.45,G47.21,0.0017,NA,
+75,12,Disease,,Circadian Rhythm Sleep-Wake Disorders: Advanced Sleep Phase,307.45,G47.22,0.01,NA,
+76,12,Disease,,Circadian Rhythm Sleep-Wake Disorders: Irregular Sleep-Wake,307.45,G47.23,NA,NA,
+77,12,Disease,,Circadian Rhythm Sleep-Wake Disorders: Non-24-hour Sleep-Wake,307.45,G47.24,NA,NA,
+78,12,Disease,,Circadian Rhythm Sleep-Wake Disorders: Shift Work,307.45,G47.26,NA,0.0135,Estimate of total workforce (16-20% night workers of workers; 5-10% of night workers affected) 
+79,12,Disease,,Circadian Rhythm Sleep-Wake Disorders: Unspecified,307.45,G47.20,,NA,
+80,12,Disease,,Non-Rapid Eye Movement Sleep Arousal Disorders: Sleepwalking,307.46,F51.3,0.03,NA,
+81,12,Disease,,Non-Rapid Eye Movement Sleep Arousal Disorders: Sleep Terrors,307.46,F51.4,0.022,NA,
+82,12,Mixed,,Nightmare Disorder,307.47,F51.5,0.015,NA,
+83,12,Disease,,Rapid Eye Movement Sleep Behaviour Disorder,327.42,G47.52,0.0044,NA,
+84,12,Disease,,Restless Legs Syndromes,333.94,G25.81,0.016,NA,
+85,12,Behaviour,,Substance-Induced Sleep Disorder,291.82 or 292.85,F1x.y,NA,NA,
+86,13,Behaviour,,Delayed Ejaculation,302.74,F52.32,NA,NA,
+87,13,Disease,,Erectile Disorder,302.72,F52.21,NA,NA,13-21% of men 40-80 complain of occasional problems
+88,13,Disease,,Female Orgasmic Disorder,302.73,F52.31,0,NA,10% of women never have an orgasm during their life
+89,13,Mixed,,Female Sexual Interest/Arousal Disorder,302.72,F52.22,0,NA,Unknown
+90,13,Mixed,,Genito-Pelvic Pain/Penetration Disorder,302.76,F52.6,NA,NA,
+91,13,Mixed,,Male Hypoactive Sexual Desire Disorder,302.71,F52.0,0.018,NA,Prevalence for men 16-44 yo
+92,13,Mixed,,Premature (Early) Ejaculation,302.75,F52.4,0.02,NA,This prevalence appears to be estimated
+93,13,Behaviour,,Substance-Induced Sexual Dysfunction,291.89 or 292.89,F1x.y,NA,NA,"Unknown general, some medications have common sexual dysfunctions (e.g. methadone, antidepressants)"
+94,14,Disease,,Gender Dysphoria,302.85,F64.1,NA,NA,"""For natal adult males 0.05% to 0.014%, natal females 0.002% to 0.003%"""
+95,15,Dimensional,Life Story,Oppositional Defiant Disorder,313.81,F91.3,NA,0.033,Presumably this is refering to childhood rates
+96,15,Behaviour,Dimensional,Intermittent Explosive Disorder,312.34,F63.81,0.027,NA,
+97,15,Behaviour,Dimensional,Conduct Disorder,"312.x (81,82,89)","F91.x (1,2,9)",NA,0.04,"Rarely diagnosed in adulthood, onset in childhood, mainly remits in adulthood."
+98,15,Behaviour,,Pyromania,312.33,F63.1,NA,NA,
+99,15,Behaviour,,Kleptomania,312.32,F63.2,0.0045,NA,General population 0.3-0.6%
+100,16,Behaviour,,Alcohol Use Disorder,"305, 303.90","F10.x (10,20)",0.085,NA,
+101,16,Behaviour,,Cannabis Use Disorder,"305.20, 304.30","F12.x (10,20)",0.015,NA,
+102,16,Behaviour,,Phencyclidine Use Disorder,"305.90, 304.60","F16.x (10,20)",NA,NA,"Includes ketamine, unknown prevalence"
+103,16,Behaviour,,Other Hallucinogen Use Disorder,"305.30, 304.50","F16.x (10,20)",0.002,0.001,"Includes MDMA, prevalence is the adult male one year prevalence, prevalence2 is the general adult rate"
+104,16,Behaviour,,Hallucinogen Persisting Perception Disorder,292.89,F16.983,NA,NA,Initial estimates suggest 4.2% of people who use hallucinogens
+105,16,Behaviour,,Inhalant Use Disorder,"305.90, 304.60","F18.x (10,20)",0.0002,0.004,"prevalence2 is 12-month all ages, prevalence is 18 yo +"
+106,16,Behaviour,,Opioid Use Disorder,"305.50, 304.00","F11.x (10,20)",0.0049,0.0037,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
+107,16,Behaviour,,"Sedative, Hypnotic, or Anxiolytic Use Disorder","305.40, 304.10","F13.x (10,20)",0.003,0.002,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
+108,16,Behaviour,,Stimulant Use Disorder: amphetamine type,"305.70, 304.40","F15.x (10,20)",0.001,0.002,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
+109,16,Behaviour,,Stimulant Use Disorder: cocaine,"305.60, 304.20","F14.x, (10,20)",0.004,0.003,"Prevalence is the adult male 12-month prevalence, prevalence2 is the general adult rate"
+110,16,Behaviour,,Tobacco Use Disorder,305.1,"Z72.0, F17.200",0.13,NA,"Prevalence comes from DSM-IV dependence, will be higher"
+111,16,Behaviour,,Other Substance Use Disorder,"305.90, 304.90","F19.x (10,20)",NA,NA,"Unknown (for example steroids, poppers, etc)"
+112,16,Behaviour,,Gambling Disorder,312.31,F63.0,0.0025,NA,
+113,17,Disease,,Delerium,Various,Various,0.015,NA,Community prevalence cited
+114,17,Disease,,Major Neurocognitive Disorder,Various,Various,NA,NA,Can include those caused by HIV; prevalence changes by age and subtype
+115,17,Disease,,Mild Neurocognitive Disorder,Various,Various,NA,NA,Can include those caused by HIV; prevalence changes by age and subtype
+116,17,Disease,,MND Due to Alzheimer's Disease,,,NA,NA,
+117,17,Disease,,Major or Mild Frontotemporal Neurocognitive Disorder,"294.x (10,11), 331.x (19,9,83)","G31.x(09,9,84),F02.x(80,81)",0.000055,NA,
+118,17,Disease,,MND With Lewy Bodies,"294.x (10,11), 331.x (9,82,83)","G31.x(9,83),F02.x(80,81)",NA,0.025,"Prevalence2 is amongst ""elderly"""
+119,17,Disease,,Major or Mild Vascular Neurocognitive Disorder,"290.40, 331.9, 331.83","F01.x (50,51), G31.x(84,9)",NA,NA,"Unknown in general population, .2% 65-70 yo, 16% 80+"
+120,17,Disease,,MND Due to Traumatic Brain Injury,various,various,NA,0.02,Prevalence2 is rate of TBI-associated disability
+121,17,Disease,,Substance-Induced Major or Mild Neurocognitive Disorder,Various,various,NA,NA,Unknown
+122,17,Disease,,MND Due to HIV infection,"294.11, 294.10, 331.83","F02.81,F02.80,G31.84",NA,NA,"Of HIV+, 25% with Mild ND, 5% with Major ND"
+123,17,Disease,,MND Due to Prion Disease,"294.11, 294.10, 331.83","F02.81,F02.80,G31.85",NA,0.0000015,Prevalence2 is of CJD annually
+124,17,Disease,,MND Due to Parkinson's Disease,"294.11, 294.10, 331.84","F02.81,F02.80,G31.86",NA,NA,"Prevalence is 0.5% 65-69, 3% 85+"
+125,17,Disease,,MND Due to Huntington's Disease,"294.11, 294.10, 331.85","F02.81,F02.80,G31.87",0.000057,0.000027,"Prevalence is from North America, Europe and Australia, lower in Asia (prevalence2)"
+126,18,Dimensional,,Paranoid Personality Disorder,301,F60.0,0.023,0.044,"National Comorbidity Survey, Prevalence2 NSARC"
+127,18,Dimensional,,Schizoid Personality Disorder,301.2,F60.1,0.049,0.031,"National Comorbidity Survey, Prevalence2 NSARC"
+128,18,Dimensional,,Schizotypal Personality Disorder,301.22,F21,0.046,0.039,Unknown US source; Prevalence2 NSARC; higher in community than clinical samples
+129,18,Dimensional,,Antisocial Personality Disorder,301.7,F60.2,0.0185,NA,Taken from the range 0.2-3.3% cited
+130,18,Dimensional,,Borderline Personality Disorder,301.83,F60.3,0.0375,NA,Taken from the range 1.6-5.9% cited
+131,18,Dimensional,,Histrionic Personality Disorder,301.5,F60.4,0.0184,NA,NSARC
+132,18,Dimensional,,Narcissistic Personality Disorder,301.81,F60.81,0.031,NA,Taken from the range 0-6.2% cited
+133,18,Dimensional,,Avoidant Personality Disorder,301.82,F60.6,0.024,NA,NESARC
+134,18,Dimensional,,Dependent Personality Disorder,301.6,F60.7,0.006,0.0049,"National Comorbidity Survey, Prevalence2 NSARC"
+135,18,Dimensional,,Obsessive-Compulsive Personality Disorder,301.4,F60.5,0.05,NA,Taken from the range 2.1-7.9% cited
+136,18,Dimensional,,Personality Change Due to GMC,310.1,F07.0,NA,NA,Not included
+137,19,Behaviour,,Voyeuristic Disorder,302.82,F65.3,NA,0.12,Estimated from non-clinical samples
+138,19,Behaviour,,Exhibitionistic Disorder,302.4,F65.2,NA,0.03,Estimated from non-clinical samples
+139,19,Behaviour,,Frotteuristic Disorder,302.89,F65.81,NA,NA,"Unknown, 10-14% in clinical samples"
+140,19,Behaviour,,Sexual Masochism Disorder,302.83,F65.51,NA,0.022,"Prevalence2 is Australian males involved in B&D, S&M in past 12 months"
+141,19,Behaviour,,Sexual Sadism Disorder,302.84,F65.52,NA,NA,Unknown population prevalence
+142,19,Behaviour,,Pedophilic Disorder,302.2,F65.4,NA,0.04,Prevalence2 is cited as the 'highest possible prevalence' unclear how/why
+143,19,Behaviour,,Fetishistic Disorder,302.81,F65.0,NA,NA,
+144,19,Behaviour,,Transvestic Disorder,302.3,F65.1,NA,NA,Fewer than 3% of males report having ever been seuxally aroused by cross dressing
+145,21,Disease,,Medication-Induced Dystonia,333.72,G24.02,NA,NA,
+146,21,Disease,,Medication-Induced Acute Akasthisia,333.99,G25.71,NA,NA,
+147,21,Disease,,Tardive Dyskinesia,333.85,G24.01,NA,NA,
+148,21,Disease,,Tardive Dystonia,333.72,G24.09,NA,NA,
+149,21,Disease,,Tardive Akasthisia,333.99,G25.71,NA,NA,
+150,21,Disease,,Medication-Induced Postural Tremor,333.1,G25.1,NA,NA,
+151,21,Disease,,Other Medication-Induced Movement Disorder,333.99,G25.79,NA,NA,
+152,21,Disease,,Antidepressant Discontinuation Syndrome,995.29,T42.205,NA,NA,
+153,22,Life Story,,Relational Distress With Spouse or Intimate Partner,V61.10,Z63.0,NA,NA,
+154,22,Life Story,,Disruption of Family by Separation or Divorce,V61.03,Z63.5,NA,NA,
+155,22,Life Story,,High Expressed Emotion Level Within Family,V61.8,Z63.8,NA,NA,
+156,22,Life Story,,Uncomplicated Bereavement,V62.82,Z63.4,NA,NA,
+157,22,Life Story,,Child Maltreatment and Neglect Problems,various,various,NA,NA,
+158,22,Life Story,,Adult Maltreatment and Neglect Problems,various,various,NA,NA,
+159,22,Life Story,,Educational Problems,various,various,NA,NA,
+160,22,Life Story,,Occupational Problems,various,various,NA,NA,
+161,22,Life Story,,Housing Problems,various,various,NA,NA,
+162,22,Life Story,,Economic Problems,various,various,NA,NA,
+163,22,Life Story,,Other Problems Related to the Social Environment,various,various,NA,NA,
+164,22,Life Story,,Problems Related to Crime or Interaction With the Legal System,various,various,NA,NA,
+165,22,Life Story,,Other Health Service Encounters for Counselling and Medical Advice,various,various,NA,NA,
+166,22,Life Story,,Nonadherence to Medical Treatment,various,various,NA,NA,
